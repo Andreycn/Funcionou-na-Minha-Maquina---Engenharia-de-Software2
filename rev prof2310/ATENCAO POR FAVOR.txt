@@ -1,0 +1,13 @@
+ACELERAR as pesquisas dos 2 formulários
+
+
+Entrega nova versão de todos os artefatos
+
+resultados das pesquisas (gráficos) - ver modelo de template
+
+Lista dos requisitos NAO funcionais
+Lista dos requisitos funcionais
+Diagrama de Caso de Uso
+Descricao de Caso de Uso - ver template
+Diagrama de Classes
+protótipos de 2 telas - principal e 1 cadastro
